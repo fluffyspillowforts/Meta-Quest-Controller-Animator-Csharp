@@ -23,4 +23,6 @@ Find your PhotonVRPlayer script on a game object (usally on your local player ob
 Add the MetaQuestControllerAnimatorSync.cs component on the game object that has the PhotonVRPlayer.cs component
 
 
-*If you have any issues or errors message me on discord, my username is fluffy_._._*
+*If you have any issues or errors message me on discord, my username is fluffyspillowforts*
+
+**Please credit me in your project if you use this!**
